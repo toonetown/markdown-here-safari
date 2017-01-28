@@ -5,11 +5,11 @@
 	<key>Author</key>
 	<string>adam-p</string>
 	<key>Builder Version</key>
-	<string>10600.3.18</string>
+	<string>12602.4.8</string>
 	<key>CFBundleDisplayName</key>
 	<string>Markdown Here</string>
 	<key>CFBundleIdentifier</key>
-	<string>ca.adampritchard.markdown-here.safari</string>
+	<string>com.toonetown.markdown-here.safari</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleShortVersionString</key>
@@ -70,7 +70,7 @@
 	<key>Description</key>
 	<string>Write email in Markdown, and then make it pretty.</string>
 	<key>DeveloperIdentifier</key>
-	<string>BGUP9R32DW</string>
+	<string>KVCJU99B88</string>
 	<key>ExtensionInfoDictionaryVersion</key>
 	<string>1.0</string>
 	<key>Permissions</key>
@@ -84,7 +84,7 @@
 		</dict>
 	</dict>
 	<key>Update Manifest URL</key>
-	<string>http://update.markdown-here.com/safari-update-manifest.plist</string>
+	<string>http://www.toonetown.com/nathan/projects/markdown-here/safari-update-manifest.plist</string>
 	<key>Website</key>
 	<string>http://www.markdown-here.com</string>
 </dict>

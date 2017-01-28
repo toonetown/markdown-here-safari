@@ -1,3 +1,5 @@
+This is a fork of the amazing [Markdown Here for Safari](https://github.com/adam-p/markdown-here-safari) extension.  Mainly, this fork is intended to provide builds and updates since the original project does not appear to be active anymore.
+
 # Markdown Here for Safari
 
 Safari browser implementation of the Markdown Here extension.
